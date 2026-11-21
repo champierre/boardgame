@@ -276,6 +276,7 @@ class: text-center
 - ほかにも「ふりだしにもどる」「ワープする」「1 回休み」など、しかけをふやせる
 
 <a href="https://www.kodomonokagaku.com/experience/programming/32384/" target="_blank">すごろくに「3マス戻る」のマスを追加する（コカネット）</a>
+<a href="https://www.kodomonokagaku.com/wp-content/uploads/2022/01/No58_sugoroku.pdf" target="_blank">（紙資料）</a>
 
 </div>
 <div class="card w-80">
@@ -330,6 +331,7 @@ class: text-center
   <a href="https://layerling.com/guide/index.html" target="_blank">layerling.com/guide</a>
 - Scratch ですごろく（コカネット）
   <a href="https://www.kodomonokagaku.com/experience/programming/32384/" target="_blank">kodomonokagaku.com/experience/programming/32384</a>
+  <a href="https://www.kodomonokagaku.com/wp-content/uploads/2022/01/No58_sugoroku.pdf" target="_blank">（紙資料）</a>
 - Scratch
   <a href="https://scratch.mit.edu/" target="_blank">scratch.mit.edu</a>
 
