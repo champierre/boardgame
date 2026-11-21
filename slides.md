@@ -188,13 +188,24 @@ class: text-center
 
 ---
 
+# 3D プリントのやくそく
+
+<div class="cards c2 mt-4">
+<div class="card"><div class="icon">🎨</div><h3>色は 1 色だけ</h3>時間内におわるように、<b>多色プリントはなし</b>。<br>色をわけたいときは、形でくべつしたり、あとからペンでぬったりしよう。</div>
+<div class="card"><div class="icon">📏</div><h3>5 cm 四方におさめる</h3>たて 5 cm × よこ 5 cm の中に入る大きさで作る。<br>大きいものはプリントに時間がかかって、きょう中におわらない。</div>
+</div>
+
+<div class="note">Layerling のプレートのマス目やメジャーで、大きさをたしかめてからプリントに出そう。</div>
+
+---
+
 # 駒づくりのコツ
 
 <div class="cards c2 mt-2">
 <div class="card"><h3>📐 大きさは 2 cm くらい</h3>小さすぎるとつまみにくい。大きすぎるとプリントに時間がかかる。</div>
 <div class="card"><h3>⬇️ 底はたいらに</h3>プレートにぴったりつく面があると、きれいにプリントできて、たおれない。</div>
 <div class="card"><h3>👀 しゅるいが見てわかる</h3>形・高さをかえる。文字や絵をほる。動ける方向に点をつけるのもいい。</div>
-<div class="card"><h3>🎨 だれの駒かわかる</h3>プレイヤーごとに色（フィラメント）をかえる。向きがわかる形にする。</div>
+<div class="card"><h3>🧭 だれの駒かわかる</h3>色は 1 色なので、形や向きでくべつする。とがったほうを相手にむける、など。</div>
 </div>
 
 <div class="note">時間はかぎられている。まずは <b>1 しゅるい作ってプリントに出す</b> → まっている間につぎを作ろう。</div>
@@ -237,7 +248,7 @@ class: text-center
 <div class="cards c3 mt-2">
 <div class="card"><div class="icon">✏️</div><h3>紙に手がき</h3>いちばん早い。じょうぎでマスをかいて、絵や色もじゆうに。すぐになおせる。</div>
 <div class="card"><div class="icon">🖨️</div><h3>紙に印刷</h3>パソコンでかいて印刷。Scratch のステージにかいた盤を印刷してもいい。</div>
-<div class="card"><div class="icon">🧱</div><h3>3D プリンター</h3>うすい板にマスのみぞをほる。駒がずれにくい。大きいと時間がかかるので小さめに。</div>
+<div class="card"><div class="icon">🧱</div><h3>3D プリンター</h3>うすい板にマスのみぞをほる。駒がずれにくい。ただし 5 cm 四方まで。大きな盤は紙で作ろう。</div>
 </div>
 
 <div class="mt-4">
