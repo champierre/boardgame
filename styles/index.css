@@ -1,0 +1,73 @@
+:root {
+  --ink: #2b2a33;
+  --accent: #e0452c;
+  --accent-2: #2f7d5b;
+  --paper: #fffaf0;
+  --card: #ffffff;
+  --line: #ead9b8;
+}
+
+.slidev-layout {
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 1.25rem;
+  line-height: 1.7;
+  padding: 2.2rem 3.2rem;
+}
+
+.slidev-layout h1 {
+  font-size: 2.3rem;
+  font-weight: 800;
+  color: var(--ink);
+  border-bottom: 5px solid var(--accent);
+  padding-bottom: 0.2rem;
+  margin-bottom: 1.1rem;
+  width: fit-content;
+}
+
+.slidev-layout.cover h1 {
+  font-size: 3.4rem;
+  border: none;
+  width: auto;
+}
+
+.slidev-layout li { margin: 0.15rem 0; }
+.slidev-layout strong { color: var(--accent); }
+.slidev-layout a { color: var(--accent-2); font-weight: 700; border-bottom: 2px solid currentColor; }
+.slidev-layout code { font-size: 0.9em; background: #f3e8cf; padding: 0.1em 0.35em; border-radius: 6px; }
+
+.cards { display: grid; gap: 1rem; }
+.cards.c2 { grid-template-columns: repeat(2, 1fr); }
+.cards.c3 { grid-template-columns: repeat(3, 1fr); }
+.cards.c4 { grid-template-columns: repeat(4, 1fr); }
+
+.card {
+  background: var(--card);
+  border: 3px solid var(--line);
+  border-radius: 18px;
+  padding: 0.9rem 1.1rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+.card .icon { font-size: 2.6rem; line-height: 1.2; }
+.card h3 { font-size: 1.3rem; font-weight: 800; margin: 0.2rem 0 0.3rem; }
+.card ul { padding-left: 1.1rem; }
+
+.steps { display: flex; align-items: stretch; gap: 0.6rem; }
+.steps .card { flex: 1; text-align: center; }
+.steps .arrow { align-self: center; font-size: 2rem; color: var(--accent); font-weight: 800; }
+
+.note {
+  background: #fff1c9;
+  border-left: 8px solid #f0b429;
+  border-radius: 10px;
+  padding: 0.6rem 1rem;
+  font-size: 1.05rem;
+  margin-top: 1rem;
+}
+
+.big-url { font-size: 1.35rem; font-weight: 800; word-break: break-all; }
+.num {
+  display: inline-grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50%;
+  background: var(--accent); color: #fff; font-weight: 800; margin-right: 0.4rem; font-size: 1.1rem;
+}
